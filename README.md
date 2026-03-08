@@ -19,6 +19,8 @@ The dataset contains movie ratings from users over a long time horizon. Each rec
 
 For segmentation, user behavior was analyzed primarily using interactions between **2013 and 2014**, which served as the observation window. Activity from **2015** was used as a future validation period to test whether the identified segments could predict subsequent user engagement.
 
+Link: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=rating.csv
+
 
 
 ## Feature Engineering
